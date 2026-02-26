@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 👨🏻‍💻 I am a software developer working on web and mobile applications.<br>🌐 I build websites with React, develop backend solutions with Spring.<br>📱I learn Flutter and Swift for mobile development.<br>🤖 I also create Telegram bots and continuously improve my development skills.
 
 
